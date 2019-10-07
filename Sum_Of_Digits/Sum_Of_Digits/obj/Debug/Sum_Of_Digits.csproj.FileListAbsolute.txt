@@ -1,0 +1,7 @@
+D:\DEV\C#\Practice\Sum_Of_Digits\Sum_Of_Digits\bin\Debug\Sum_Of_Digits.exe.config
+D:\DEV\C#\Practice\Sum_Of_Digits\Sum_Of_Digits\bin\Debug\Sum_Of_Digits.exe
+D:\DEV\C#\Practice\Sum_Of_Digits\Sum_Of_Digits\bin\Debug\Sum_Of_Digits.pdb
+D:\DEV\C#\Practice\Sum_Of_Digits\Sum_Of_Digits\obj\Debug\Sum_Of_Digits.csprojAssemblyReference.cache
+D:\DEV\C#\Practice\Sum_Of_Digits\Sum_Of_Digits\obj\Debug\Sum_Of_Digits.csproj.CoreCompileInputs.cache
+D:\DEV\C#\Practice\Sum_Of_Digits\Sum_Of_Digits\obj\Debug\Sum_Of_Digits.exe
+D:\DEV\C#\Practice\Sum_Of_Digits\Sum_Of_Digits\obj\Debug\Sum_Of_Digits.pdb
